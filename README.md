@@ -1,3 +1,6 @@
+
+
+
 # AI Engineering Internship – 2026
 
 A collection of hands-on AI projects completed during industrial training.
@@ -9,3 +12,4 @@ machine learning and beyond.
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
 | 1 | Rule-Based AI Chatbot | Control flow, dictionaries, IPO model | Done |
+| 2 | Data Classification Using AI | KNN, supervised learning, confusion matrix, F1 score | Done |
