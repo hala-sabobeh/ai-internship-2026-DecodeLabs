@@ -13,3 +13,4 @@ machine learning and beyond.
 |---|---------|----------|--------|
 | 1 | Rule-Based AI Chatbot | Control flow, dictionaries, IPO model | Done |
 | 2 | Data Classification Using AI | KNN, supervised learning, confusion matrix, F1 score | Done |
+| 3 | AI Recommendation Logic | TF-IDF, cosine similarity, content-based filtering | Done |
